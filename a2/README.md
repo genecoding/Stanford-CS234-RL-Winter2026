@@ -8,9 +8,9 @@
   * [x] Proximal Policy Optimization (PPO)
 
 ## Result
-<img src="results/results-cartpole.png" width="45%" />
-<img src="results/results-pendulum.png" width="45%" />
-<img src="results/result-cheetah.png" width="45%" />
+<img src="results/results-cartpole.png" width="40%" />
+<img src="results/results-pendulum.png" width="40%" />
+<img src="results/results-cheetah.png" width="40%" />
 
 
 
