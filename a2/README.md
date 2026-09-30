@@ -4,7 +4,7 @@
 
 ## Note
 * Implemented algorithms:
-  * [x] REINFORCE (with baseline)
+  * [x] Policy Gradient (with baseline)
   * [x] Proximal Policy Optimization (PPO)
 
 ## Result
