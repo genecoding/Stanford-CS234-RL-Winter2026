@@ -8,9 +8,24 @@
   * [x] Direct Preference Optimization (DPO)
 
 ## Result
-<img src="results/results-cartpole.png" width="40%" />
-<img src="results/results-pendulum.png" width="40%" />
-<img src="results/results-cheetah.png" width="40%" />
+### 1 Reward Engineering
+* Learning curves  
+  <img src="results/hopper.png" width="40%" />
+* Evaluation rollouts
+  | with early termination | without early termination |
+  |:----------------------:|:-------------------------:|
+  |||
+### 2 Learning from Preferences
+* Learning curves  
+  <img src="results/hopper_rlhf.png" width="40%" />
+* Evaluation rollouts  
+  <img src="results/2-eval_ep2.gif" />
+  <img src="results/2-eval_ep6.gif" />
+### 3 Direct Preference Optimization
+* Learning curves  
+  <img src="results/hopper_dpo.png" width="40%" />
+* Evaluation rollouts
+
 
 ## Reference
 
