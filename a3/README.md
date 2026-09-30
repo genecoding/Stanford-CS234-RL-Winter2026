@@ -14,7 +14,7 @@
 * Evaluation rollouts
   | with early termination | without early termination |
   |:----------------------:|:-------------------------:|
-  |||
+  | ![1-wet_eval_ep2] ![1-wet_eval_ep9] | ![1-woet_eval_ep1] ![1-woet_eval_ep8] |
 ### 2 Learning from Preferences
 * Learning curves  
   <img src="results/hopper_rlhf.png" width="40%" />
@@ -34,3 +34,7 @@
 [instructions and installation]: README_.md
 [Assignment3]: https://web.stanford.edu/class/cs234/assignments/a3/hw3_questions.pdf
 [assignment3.ipynb]: assignment3.ipynb
+[1-wet_eval_ep2]: results/1-wet_eval_ep2.gif
+[1-wet_eval_ep9]: results/1-wet_eval_ep9.gif
+[1-woet_eval_ep1]: results/1-woet_eval_ep1.gif
+[1-woet_eval_ep8]: results/1-woet_eval_ep8.gif
