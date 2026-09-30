@@ -24,8 +24,10 @@
 ### 3 Direct Preference Optimization
 * Learning curves  
   <img src="results/hopper_dpo.png" width="40%" />
-* Evaluation rollouts
-
+* Evaluation rollouts  
+  SFT vs. DPO  
+  <img src="results/3-eval_ep3.gif" width="50%" />  
+  <img src="results/3-eval_ep7.gif" width="50%" />
 
 ## Reference
 
