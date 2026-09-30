@@ -8,8 +8,9 @@
   * [x] Proximal Policy Optimization (PPO)
 
 ## Result
-<img src="results/results-cartpole.png" width="40%" />
-<img src="results/results-pendulum.png" width="40%" />
+3 methods across 3 environments over 3 seeds.  
+<img src="results/results-cartpole.png" width="40%" />  
+<img src="results/results-pendulum.png" width="40%" />  
 <img src="results/results-cheetah.png" width="40%" />
 
 
