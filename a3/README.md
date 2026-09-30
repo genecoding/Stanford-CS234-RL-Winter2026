@@ -14,7 +14,7 @@
 * Evaluation rollouts  
   with early termination  
   <img src="results/1-wet_eval_ep2.gif" width="25%" />
-  <img src="results/1-wet_eval_ep9.gif" width="25%" /><br>
+  <img src="results/1-wet_eval_ep9.gif" width="25%" />  
   without early termination  
   <img src="results/1-woet_eval_ep1.gif" width="25%" />
   <img src="results/1-woet_eval_ep8.gif" width="25%" />
