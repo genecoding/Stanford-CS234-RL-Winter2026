@@ -11,14 +11,13 @@
 ### 1 Reward Engineering
 * Learning curves  
   <img src="results/hopper.png" width="40%" />
-* Evaluation rollouts
-  | with early termination | without early termination |
-  |:----------------------:|:-------------------------:|
-  | ![1-wet_eval_ep2]![1-wet_eval_ep9] | ![1-woet_eval_ep1]![1-woet_eval_ep8] |
-
-<!--
-  | <img src="results/1-wet_eval_ep2.gif" width="25%" /> <img src="results/1-wet_eval_ep9.gif" width="25%" /> | <img src="results/1-woet_eval_ep1.gif" width="25%" /> <img src="results/1-woet_eval_ep8.gif" width="25%" /> |
--->
+* Evaluation rollouts  
+  with early termination  
+  <img src="results/1-wet_eval_ep2.gif" width="25%" />
+  <img src="results/1-wet_eval_ep9.gif" width="25%" /><br>
+  without early termination  
+  <img src="results/1-woet_eval_ep1.gif" width="25%" />
+  <img src="results/1-woet_eval_ep8.gif" width="25%" />
 ### 2 Learning from Preferences
 * Learning curves  
   <img src="results/hopper_rlhf.png" width="40%" />
@@ -34,13 +33,14 @@
   <img src="results/3-eval_ep7.gif" width="50%" />
 
 ## Reference
+* [Deep Reinforcement Learning from Human Preferences], P Christiano *et al.*
+* [Direct Preference Optimization: Your Language Model is Secretly a Reward Model], R Rafailov *et al.*
 
 
 
 [instructions and installation]: README_.md
 [Assignment3]: https://web.stanford.edu/class/cs234/assignments/a3/hw3_questions.pdf
 [assignment3.ipynb]: assignment3.ipynb
-[1-wet_eval_ep2]: results/1-wet_eval_ep2.gif
-[1-wet_eval_ep9]: results/1-wet_eval_ep9.gif
-[1-woet_eval_ep1]: results/1-woet_eval_ep1.gif
-[1-woet_eval_ep8]: results/1-woet_eval_ep8.gif
+[Deep Reinforcement Learning from Human Preferences]: https://arxiv.org/abs/1706.03741
+[Direct Preference Optimization: Your Language Model is Secretly a Reward Model]: https://arxiv.org/abs/2305.18290
+
