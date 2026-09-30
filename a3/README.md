@@ -14,7 +14,11 @@
 * Evaluation rollouts
   | with early termination | without early termination |
   |:----------------------:|:-------------------------:|
+  | ![1-wet_eval_ep2]![1-wet_eval_ep9] | ![1-woet_eval_ep1]![1-woet_eval_ep8] |
+
+<!--
   | <img src="results/1-wet_eval_ep2.gif" width="25%" /> <img src="results/1-wet_eval_ep9.gif" width="25%" /> | <img src="results/1-woet_eval_ep1.gif" width="25%" /> <img src="results/1-woet_eval_ep8.gif" width="25%" /> |
+-->
 ### 2 Learning from Preferences
 * Learning curves  
   <img src="results/hopper_rlhf.png" width="40%" />
