@@ -4,7 +4,7 @@
 
 ## Note
 * Implemented algorithms:
-  * [x] Reinforcement Learning from Human Preferences (RLHF)
+  * [x] Reward-Modeling RLHF
   * [x] Direct Preference Optimization (DPO)
 
 ## Result
